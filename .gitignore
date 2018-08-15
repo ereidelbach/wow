@@ -1,0 +1,10 @@
+# ignore a single file
+mycode.class
+
+# ignore an entire directory
+/mydebugdir/
+
+# ignore a file type
+*.json
+*.ipynb_checkpoints
+
